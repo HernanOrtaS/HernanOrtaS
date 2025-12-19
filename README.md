@@ -1,7 +1,7 @@
 <h2>Hernan Orta</h2>
 
 <!-- BREVE DESCRIPCION -->
-- 🎓 University graduate (2025), currently in the degree process for **Computer Systems Engineering** at **Facultad de Ingeniería Tampico** **https://fiuat.mx/**
+- 🎓 University graduate (2025), currently in the degree process for **Computer Systems Engineering** at **<a href='https://fiuat.mx/'>Facultad de Ingeniería Tampico</a>**
 
 - 💻 Focused on **web development** and building efficient software systems
 
@@ -33,8 +33,8 @@
 
 <h3>Personal experience:</h3>
 <ul>
-  <li>I developed a project using Laravel and Python inside Docker containers to quickly generate student grades and certificates. The system uses real data from a database connected through a Python API. All queries are dynamic and executed in real time. The generation process is handled by the DomPDF library, and if there is an issue with the original data, it can be corrected before the generation process starts.</li><br>
-  <li>I built a cleaning product calculator using Laravel to calculate the necessary amount of product required to clean a measured surface. The calculation is based on different floor types, products, and environments such as kitchens, dining rooms, and reception areas. It is a Single Page Application developed with Livewire, SQLite, and configuration data provided by the user.
+  <li><b><a href='https://github.com/HernanOrtaS/Gestion-Escolar---Laravel'>School Management</a></b><br>I developed a project using Laravel and Python inside Docker containers to quickly generate student grades and certificates. The system uses real data from a database connected through a Python API. All queries are dynamic and executed in real time. The generation process is handled by the DomPDF library, and if there is an issue with the original data, it can be corrected before the generation process starts.</li><br>
+  <li><b><a href='https://github.com/HernanOrtaS/natPHP_Limpiador'>Cleaner Product Calculation</a></b><br>I built a cleaning product calculator using Laravel to calculate the necessary amount of product required to clean a measured surface. The calculation is based on different floor types, products, and environments such as kitchens, dining rooms, and reception areas. It is a Single Page Application developed with Livewire, SQLite, and configuration data provided by the user.
 </li>
 </ul>
 
